@@ -1,4 +1,4 @@
-import hbs from 'htmlbars-inline-precompile';
+import { hbs } from 'ember-cli-htmlbars';
 import { htmlSafe } from '@ember/string';
 import { module, test, skip } from 'qunit';
 import { setupRenderingTest } from 'ember-qunit';
